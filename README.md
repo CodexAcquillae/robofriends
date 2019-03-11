@@ -1,2 +1,2 @@
 # robofriends
-Simple Card List and Search Box.
+A Simple, Scrollable Card List and Search Box.
